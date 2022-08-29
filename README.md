@@ -1,6 +1,8 @@
 Prazer, Leonardo Penteado!
 
-- Programador HTML/CSS
+- Programador Front-End
+- HTML
+- CSS
 - Aprendendo JavaScript
 - BootStrap
 - SASS
