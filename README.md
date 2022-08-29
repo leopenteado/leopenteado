@@ -1,7 +1,10 @@
 Prazer, Leonardo Penteado!
 
-- 🔭 Programador HTML/CSS
-- 🌱 Aprendendo JavaScript
+- Programador HTML/CSS
+- Aprendendo JavaScript
+- BootStrap
+- SASS
+- SQL
 
 <div align="center">
   <a href="https://github.com/leopenteado">
